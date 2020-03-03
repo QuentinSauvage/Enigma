@@ -1,5 +1,5 @@
 # Enigma
-This short reflexion game was made during the 105th edition of the Weekly Game Jam, which theme was "Cheat To Win" (from July 12th 2019 to July 18th 2019)..
+This short enigma was made during the 105th edition of the Weekly Game Jam, which theme was "Cheat To Win" (from July 12th 2019 to July 18th 2019)..
 
 Sadly, I only had two days available to work on it, but the game is still playable and can be finished.
 
