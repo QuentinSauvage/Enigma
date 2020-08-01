@@ -1,5 +1,7 @@
 # Enigma
-![game](Screenshots/enigma.PNG)
+![game](Screenshots/enigma.png)
+
+Itch.io page can be found [here](https://chyrro.itch.io/enigma).
 
 This short enigma was made during the 105th edition of the Weekly Game Jam, which theme was "Cheat To Win" (from July 12th 2019 to July 18th 2019)..
 
