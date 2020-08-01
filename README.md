@@ -1,5 +1,11 @@
-# Enigma
+# Enigma (Unity 2019.3)
 ![game](Screenshots/enigma.png)
+
+## Run the game
+
+Double click on _Build_Project/Enigma.exe_.
+
+## Overview
 
 Itch.io page can be found [here](https://chyrro.itch.io/enigma).
 
